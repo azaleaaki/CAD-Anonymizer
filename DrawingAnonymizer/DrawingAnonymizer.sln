@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingAnonymizer", "DrawingAnonymizer.csproj", "{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B67E13A2-9C11-4E42-8EC0-259E83D7B538}
+	EndGlobalSection
+EndGlobal

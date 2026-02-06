@@ -1,0 +1,16 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# OS
+Thumbs.db
+Desktop.ini

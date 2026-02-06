@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|c:\\users\\usser\\source\\repos\\drawinganonymizer\\drawinganonymizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\python_backend\\anonymize.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|solutionrelative:python_backend\\anonymize.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\pythonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93CAA04-5A98-4FFD-88CE-BB7F8F28A3FC}|DrawingAnonymizer.csproj|solutionrelative:pythonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:04:37.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "anonymize.py",
+              "DocumentMoniker": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\python_backend\\anonymize.py",
+              "RelativeDocumentMoniker": "python_backend\\anonymize.py",
+              "ToolTip": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\python_backend\\anonymize.py",
+              "RelativeToolTip": "python_backend\\anonymize.py",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAKkAAAAoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-06T11:14:03.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PythonService.cs",
+              "DocumentMoniker": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\PythonService.cs",
+              "RelativeDocumentMoniker": "PythonService.cs",
+              "ToolTip": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\PythonService.cs",
+              "RelativeToolTip": "PythonService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:47:06.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Usser\\source\\repos\\DrawingAnonymizer\\DrawingAnonymizer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T12:04:38.034Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{db388bf8-d8ab-4d02-9b1c-0ad37b3db1b0}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
