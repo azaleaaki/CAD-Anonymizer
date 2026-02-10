@@ -9,7 +9,8 @@
         WindowStartupLocation="CenterScreen"
         Background="#1a1a1a"
         FontFamily="Segoe UI"
-        Height="2700" Width="1600">
+        Height="2700" Width="1600"
+        Icon="/Resources/metmash.jpg">
 
     <Window.Resources>
         <!-- Стили -->
@@ -374,7 +375,7 @@
 
                                             <ComboBox x:Name="FormatComboBox" Height="40" Background="#282828"
                                                       BorderBrush="#e8e8e8" BorderThickness="1"
-                                                      Foreground="White" FontSize="14" Padding="8">
+                                                      Foreground="Black" FontSize="14" Padding="8">
                                                 <ComboBoxItem Content="A4 (210 × 297 мм)" IsSelected="True"/>
                                                 <ComboBoxItem Content="A3 (297 × 420 мм)"/>
                                                 <ComboBoxItem Content="A2 (420 × 594 мм)"/>
